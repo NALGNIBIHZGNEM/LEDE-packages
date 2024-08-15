@@ -29,8 +29,8 @@ git clone --depth=1 https://github.com/rufengsuixing/luci-app-adguardhome
 
 git clone --depth=1 https://github.com/xiaorouji/openwrt-passwall-packages openwrt-passwall
 git clone --depth=1 https://github.com/xiaorouji/openwrt-passwall passwall && mvdir passwall
-git clone --depth=1 https://github.com/xiaorouji/openwrt-passwall2 && mvdir openwrt-passwall2
-git clone --depth=1 -b main https://github.com/fw876/helloworld && mv helloworld/luci-app-ssr-plus ./
+#git clone --depth=1 https://github.com/xiaorouji/openwrt-passwall2 && mvdir openwrt-passwall2
+#git clone --depth=1 -b main https://github.com/fw876/helloworld && mv helloworld/luci-app-ssr-plus ./
 
 #git clone --depth=1 https://github.com/destan19/OpenAppFilter && mvdir OpenAppFilter
 git clone --depth=1 https://github.com/sbwml/luci-app-alist luci-app-alist
